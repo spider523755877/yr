@@ -1,6 +1,2 @@
 yr
 hello
-a
-b
-c
-d
